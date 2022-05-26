@@ -1,0 +1,20 @@
+ls listar
+cd (..) navegar (voltar)
+clear clear screen
+mkdir criar pasta
+rmdir deletar pasta
+echo print
+> direcionar fluxo
+del delete content
+
+
+blobs 
+trees
+commits
+
+git init    untracked
+git add     untracked -> unmodified -> modified -> staged
+git restore --staged <name>   staged -> untracked
+git commit  staged ---local directory--> unmodified (-m for notes)
+git status
+git rm      remove
